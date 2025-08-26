@@ -2,7 +2,8 @@
 
 > Este repositório reúne meus projetos, aprendizados e metas enquanto me preparo para ingressar na área de desenvolvimento com Python.
 
----
+![Descrição do GIF](https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif)
+
 
 ## 🎯 Objetivo
 
