@@ -7,7 +7,7 @@
 
 ## 🎯 Objetivo
 
-Sou estudante de Python com foco em aprender boas práticas, construir projetos reais e preparar meu portfólio para conseguir o primeiro emprego/estágio na área de desenvolvimento de software.
+Sou estudante de Python com foco em aprender boas práticas, construir projetos reais e preparar meu portfólio para conseguir o primeiro emprego/estágio na área de desenvolvimento.
 
 ## 🛠️ Habilidades (em construção)
 
