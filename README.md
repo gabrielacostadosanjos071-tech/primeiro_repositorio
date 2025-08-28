@@ -27,7 +27,7 @@ Sou estudante de Python com foco em aprender boas práticas, construir projetos 
 
 ## 🚀 Projetos de destaque
 
-1. **Analisador de Dados (pandas)**
+1. **Analisador de Dados **
 
    * Descrição: projeto que carrega um CSV, limpa dados e gera estatísticas e gráficos.
    * Tecnologias: Python, pandas, matplotlib
